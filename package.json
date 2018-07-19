@@ -1,0 +1,28 @@
+{
+  "name": "testshyt",
+  "version": "1.0.0",
+  "description": "this is test directory for learning some stuff",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiirey2/tests.git"
+  },
+  "keywords": [
+    "json",
+    "file"
+  ],
+  "author": "xiirey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiirey2/tests/issues"
+  },
+  "homepage": "https://github.com/xiirey2/tests#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
